@@ -1,3 +1,4 @@
+![Quiz screen shot](https://github.com/Nguisaj/Timed-Coding-Quiz-/assets/156269023/c24f10f2-9d97-46a3-8d68-7141c1922b60)
 # Assignment: JavaScript Web APIs - Code Quiz
 
   SkillHat - February 2024
