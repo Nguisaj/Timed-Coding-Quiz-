@@ -1,6 +1,6 @@
 # Assignment: JavaScript Web APIs - Code Quiz
 
-Edward Apostol, for SkillHat - February 2024
+  SkillHat - February 2024
 
 ## Your Task
 
@@ -33,55 +33,27 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
 ```
+### The process
+To ensure an effective quiz is generated, the following was done:
+*Create two HTML files (one to take quiz and one to view scores)
+*Add CSS elements to make the quiz's theme purple
+*Create two JavaScript files (one containing functions to execute the quiz and one to store previous scores)
+*Modify HTML file to dynamically work with JavaScript file
 
-## Mock-Up
 
-The following screen shot demonstrates the application functionality - refer to the image "04-web-apis-homework-demo.gif" in the assets folder for a reference; you can open up that image in your web browser.:
+### The result
 
-![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./Assets/04-web-apis-homework-demo.gif)
+After modifying the JavaSript file, a timed coding quiz with a a clean, polished, and responsive user interface has been provided
 
-## Grading Requirements
+### Submission
 
-This Challenge is graded based on the following criteria: 
+This project was uploaded to GitHub at the following repository link: https://github.com/Nguisaj/Timed-Coding-Quiz-
 
-### Technical Acceptance Criteria: 40%
+Deployed Web Application Link: 
 
-* Satisfies all of the preceding acceptance criteria.
 
-### Deployment: 32%
 
-* Application deployed at live URL.
 
-* Application loads with no errors.
 
-* Application GitHub URL submitted.
 
-* GitHub repository contains application code.
 
-### Application Quality: 15%
-
-* Application user experience is intuitive and easy to navigate.
-
-* Application user interface style is clean and polished.
-
-* Application resembles the mock-up functionality provided in the Challenge instructions.
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality readme file with description, screenshot, and link to deployed application.
-
-## Review
-
-You are required to submit BOTH of the following for review via Google Classroom:
-
-* The URL of the functional, deployed application.
-
-* The URL of the GitHub repository, with a unique name and a readme describing the project.
