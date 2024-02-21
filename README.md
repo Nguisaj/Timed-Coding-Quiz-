@@ -49,7 +49,7 @@ After modifying the JavaSript file, a timed coding quiz with a a clean, polished
 
 This project was uploaded to GitHub at the following repository link: https://github.com/Nguisaj/Timed-Coding-Quiz-
 
-Deployed Web Application Link: 
+Deployed Web Application Link: https://nguisaj.github.io/Timed-Coding-Quiz-/
 
 
 
